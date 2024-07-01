@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AcademiaportalApplication<academiaportal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.onlyh.academiaportal.AcademiaportalApplication",
+            "projectName": "academiaportal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
